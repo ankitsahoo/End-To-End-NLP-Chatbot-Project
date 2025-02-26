@@ -16,3 +16,5 @@ Integrate the chatbot on the website.
 
 # WorkFlow Diagram
  ![NLP_ChatBot flow](https://github.com/user-attachments/assets/e47eabab-b10e-45b3-8dbd-a23dade9ee90)
+# Train ChatBot
+![train_chatbot](https://github.com/user-attachments/assets/8455a147-6fe1-4ee2-a32b-a19620ba3b5f)
