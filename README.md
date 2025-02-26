@@ -11,6 +11,8 @@ Intents: "New order", "order add", "order remove", "track order"
 Fullfillment: Create a webhook that can connect to a backend to create new order and track existing order.
 # Build Backend
 A backend that is connected to our answer database using FastAPI/Flask/Django/Nodejs.
+# Website Integration
+Integrate the chatbot on the website.
 
- # WorkFlow Diagram
+# WorkFlow Diagram
  
