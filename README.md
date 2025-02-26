@@ -2,7 +2,7 @@
  Build a chatbot in Dialogflow for a food delivery system. It will be an end-to-end project covering Dialogflow basics, building a backend in python and Fastapi, interactions 
  with MySQL database.
 
-# scope of work
+# Scope of work
 New order, track order, billing queries, store hours.
 # ChatBot platform selection
 Dialogflow(NLP), RASA, Amazon Lex(Build chatbot with conversational AI)
