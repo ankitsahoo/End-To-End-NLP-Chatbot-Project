@@ -13,7 +13,8 @@ Fullfillment: Create a webhook that can connect to a backend to create new order
 A backend that is connected to our answer database using FastAPI/Flask/Django/Nodejs.
 # Website Integration
 Integrate the chatbot on the website.
-
+# Technical Workflow
+![Technical WorkFlow](https://github.com/user-attachments/assets/7be71a31-f562-4442-ba8e-90d7a81759e2)
 # WorkFlow Diagram
  ![NLP_ChatBot flow](https://github.com/user-attachments/assets/e47eabab-b10e-45b3-8dbd-a23dade9ee90)
 # Train ChatBot
