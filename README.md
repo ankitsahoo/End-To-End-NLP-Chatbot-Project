@@ -15,4 +15,4 @@ A backend that is connected to our answer database using FastAPI/Flask/Django/No
 Integrate the chatbot on the website.
 
 # WorkFlow Diagram
- 
+ ![NLP_ChatBot flow](https://github.com/user-attachments/assets/e47eabab-b10e-45b3-8dbd-a23dade9ee90)
